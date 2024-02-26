@@ -1,0 +1,15 @@
+C:\Users\maghr\Downloads\GB\Final_test_work_1\bin\Debug\net6.0\Final_test_work_1.exe
+C:\Users\maghr\Downloads\GB\Final_test_work_1\bin\Debug\net6.0\Final_test_work_1.deps.json
+C:\Users\maghr\Downloads\GB\Final_test_work_1\bin\Debug\net6.0\Final_test_work_1.runtimeconfig.json
+C:\Users\maghr\Downloads\GB\Final_test_work_1\bin\Debug\net6.0\Final_test_work_1.dll
+C:\Users\maghr\Downloads\GB\Final_test_work_1\bin\Debug\net6.0\Final_test_work_1.pdb
+C:\Users\maghr\Downloads\GB\Final_test_work_1\obj\Debug\net6.0\Final_test_work_1.csproj.AssemblyReference.cache
+C:\Users\maghr\Downloads\GB\Final_test_work_1\obj\Debug\net6.0\Final_test_work_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maghr\Downloads\GB\Final_test_work_1\obj\Debug\net6.0\Final_test_work_1.AssemblyInfoInputs.cache
+C:\Users\maghr\Downloads\GB\Final_test_work_1\obj\Debug\net6.0\Final_test_work_1.AssemblyInfo.cs
+C:\Users\maghr\Downloads\GB\Final_test_work_1\obj\Debug\net6.0\Final_test_work_1.csproj.CoreCompileInputs.cache
+C:\Users\maghr\Downloads\GB\Final_test_work_1\obj\Debug\net6.0\Final_test_work_1.dll
+C:\Users\maghr\Downloads\GB\Final_test_work_1\obj\Debug\net6.0\refint\Final_test_work_1.dll
+C:\Users\maghr\Downloads\GB\Final_test_work_1\obj\Debug\net6.0\Final_test_work_1.pdb
+C:\Users\maghr\Downloads\GB\Final_test_work_1\obj\Debug\net6.0\Final_test_work_1.genruntimeconfig.cache
+C:\Users\maghr\Downloads\GB\Final_test_work_1\obj\Debug\net6.0\ref\Final_test_work_1.dll
